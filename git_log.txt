@@ -1,0 +1,36 @@
+commit 7187d929fbd8c9c53e0b5ebb68fff1e39442000c
+Merge: 8e7dc66 6e3b401
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 11:12:39 2026 -0700
+
+    Resolve merge conflict
+
+commit 6e3b40154a0d381e26a9c1ef2cddffdb9396597d
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 11:10:34 2026 -0700
+
+    Add favorite game
+
+commit 8e7dc667f831e5e9878fed4e2b84b81188b42c72
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 11:08:06 2026 -0700
+
+    Add favorite food
+
+commit 437b7626ac7f0925f2b0702e4b92dba0032b2b2a
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 11:05:35 2026 -0700
+
+    Add README
+
+commit 2977c402d9c086b57287d0b0359538950e1bb0ef
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 10:43:02 2026 -0700
+
+    Fill in personal info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
