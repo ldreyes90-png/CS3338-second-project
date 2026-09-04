@@ -1,3 +1,9 @@
+commit cce79aee3261e5799f2b3d4dc7a0f9958780fdb0
+Author: Luis Reyes <ldreyes90@gmail.com>
+Date:   Fri Sep 4 11:20:01 2026 -0700
+
+    Add git log and repo location
+
 commit 7187d929fbd8c9c53e0b5ebb68fff1e39442000c
 Merge: 8e7dc66 6e3b401
 Author: Luis Reyes <ldreyes90@gmail.com>
@@ -22,12 +28,6 @@ Author: Luis Reyes <ldreyes90@gmail.com>
 Date:   Fri Sep 4 11:05:35 2026 -0700
 
     Add README
-
-commit 2977c402d9c086b57287d0b0359538950e1bb0ef
-Author: Luis Reyes <ldreyes90@gmail.com>
-Date:   Fri Sep 4 10:43:02 2026 -0700
-
-    Fill in personal info
 
 commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
 Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
